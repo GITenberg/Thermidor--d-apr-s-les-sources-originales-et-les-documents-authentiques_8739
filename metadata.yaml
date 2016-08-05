@@ -1,0 +1,27 @@
+_repo: Thermidor--d-apr-s-les-sources-originales-et-les-documents-authentiques_8739
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hamel, Ernest
+    alias: Hamel, Louis Ernest
+    birthdate: 1826
+    deathdate: 1898
+    gutenberg_agent_id: '2869'
+    url: http://www.gutenberg.org/2009/agents/2869
+description: ''
+gutenberg_bookshelf: FR Histoire
+gutenberg_issued: '2005-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8739'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Robespierre, Maximilien, 1758-1794'
+- !lcc 'DC'
+- !lcsh 'France -- History -- Revolution, 1789-1799'
+- GITenberg
+title: 'Thermidor: d''après les sources originales et les documents authentiques'
+url: http://www.gutenberg.org/ebooks/8739
